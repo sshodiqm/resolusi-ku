@@ -2,7 +2,11 @@ RENCANA KONTEN CHANNEL YOUTUBE SHODIQ
 - Video Tutorial
   * Tutorial video
   * Tutorial ngoding
+    ^ Tutorial HTML
+    ^ css
+    ^ Javascript
 - Tutorial video grafi
 - Tips bahasa pemrograman
 - Web Dasar
 - Framework Css
+- photoshop
