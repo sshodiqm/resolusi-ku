@@ -4,6 +4,10 @@ RENCANA KONTEN CHANNEL YOUTUBE SHODIQ
   * Tutorial ngoding
     ^ belajar php
     ^ belajar kotlin
+    ^ Tutorial HTML
+    ^ css
+    ^ Javascript
+- Tutorial video grafi
 - Tips bahasa pemrograman
 - Web Dasar
 - Framework Css
